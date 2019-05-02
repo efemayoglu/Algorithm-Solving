@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "Jumpi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{BB59C732-75A2-49EC-922D-ACAF9507D845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "2DArray\2DArray.csproj", "{A6B393A0-21C5-4F36-B114-C4058C48247F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeftRotation", "ArrayLeftRotation\ArrayLeftRotation.csproj", "{B06DFE74-6867-4418-B25F-584C67EC5264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{BB59C732-75A2-49EC-922D-ACAF9507D845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB59C732-75A2-49EC-922D-ACAF9507D845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB59C732-75A2-49EC-922D-ACAF9507D845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B393A0-21C5-4F36-B114-C4058C48247F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B393A0-21C5-4F36-B114-C4058C48247F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B393A0-21C5-4F36-B114-C4058C48247F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B393A0-21C5-4F36-B114-C4058C48247F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06DFE74-6867-4418-B25F-584C67EC5264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06DFE74-6867-4418-B25F-584C67EC5264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06DFE74-6867-4418-B25F-584C67EC5264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06DFE74-6867-4418-B25F-584C67EC5264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
